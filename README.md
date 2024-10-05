@@ -1,4 +1,4 @@
-# Machine Learning Pipelines Project
+# Bet On Me
 
 This repository contains two machine learning pipelines focused on different types of data and models:
 1. A pipeline for working with large language models (LLMs) and generating embeddings using transformer-based models.
